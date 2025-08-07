@@ -26,5 +26,5 @@ To run this project, the following software and hardware are required:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Hexapod_Summer_Project_2025.git
+git clone https://github.com/RoboticsClubIITK/Hexapod_Summer_Project_2025.git
 cd Hexapod_Summer_Project_2025
